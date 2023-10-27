@@ -1,0 +1,77 @@
+.x-sql-table {
+    margin: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #f9f9f9;
+  }
+  
+  .x-th, .x-td {
+    border: 1px solid #ccc;
+  }
+  
+  .x-th, .x-td {
+    padding: 12px;
+    text-align: left;
+  }
+  
+  .x-th {
+    background-color: #e0e0e0;
+    color: #333;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: #fff;
+  }
+  
+  tr:hover {
+    background-color: #dcdcdc;
+  }
+  
+  .x-td {
+    color: #333;
+  }
+  
+  .x-sql-table h1 {
+    font-size: 24px;
+    margin: 0;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .x-sql-table table {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+  }
+  
+  .x-sql-table th, .x-sql-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .x-sql-table th {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: #fff;
+  }
+  
+  tr:hover {
+    background-color: #dcdcdc;
+  }
+  
